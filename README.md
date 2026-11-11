@@ -2,7 +2,7 @@
 
 HEIC / HEIFの写真をJPEG / PNGに変換するツールです。WindowsのEdge / Chromeで使えます。
 
-## ▶ [変換ツールを開く](https://kanzennirikaisita.github.io/iPhone-Photo-Converter/index.html)
+## ▶ [変換ツールを開く](https://nullyama.github.io/iPhone-Photo-Converter/)
 
 インストール不要。写真は端末内で処理し、サーバーへ送信しません。
 
